@@ -6,4 +6,3 @@ kjblx
 lin2 
 line4
 gh
-bnn
